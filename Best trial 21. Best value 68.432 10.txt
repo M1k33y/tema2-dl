@@ -1,0 +1,85 @@
+Best trial: 21. Best value: 68.432: 100%
+ 30/30 [5:15:32<00:00, 497.01s/it, 18932.04/23400 seconds]
+[I 2026-10-23 23:23:39,302] Trial 0 finished with value: 66.136 and parameters: {'lr': 0.0006142114735554738, 'weight_decay': 0.06351221010640701, 'label_smoothing': 0.146398788362281, 'batch_size': 64, 'scheduler': 'cosine'}. Best is trial 0 with value: 66.136.
+Trial 0 finished | Best accuracy: 66.14%
+[I 2026-10-23 23:36:42,112] Trial 1 finished with value: 62.64 and parameters: {'lr': 0.0026788669413500975, 'weight_decay': 0.002537815508265664, 'label_smoothing': 0.1416145155592091, 'batch_size': 128, 'scheduler': 'cosine'}. Best is trial 0 with value: 66.136.
+Trial 1 finished | Best accuracy: 66.14%
+[I 2026-10-23 23:49:51,155] Trial 2 finished with value: 67.032 and parameters: {'lr': 0.0003448178439164303, 'weight_decay': 5.415244119402538e-05, 'label_smoothing': 0.06084844859190755, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 2 with value: 67.032.
+Trial 2 finished | Best accuracy: 67.03%
+[I 2026-10-24 00:01:46,983] Trial 3 finished with value: 66.184 and parameters: {'lr': 0.0003037495845344493, 'weight_decay': 0.00014742753159914678, 'label_smoothing': 0.07327236865873835, 'batch_size': 128, 'scheduler': 'cosine_warmup'}. Best is trial 2 with value: 67.032.
+Trial 3 finished | Best accuracy: 67.03%
+[I 2026-10-24 00:14:31,591] Trial 4 finished with value: 65.76 and parameters: {'lr': 0.0011797204820865384, 'weight_decay': 1.5339162591163613e-05, 'label_smoothing': 0.12150897038028768, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 2 with value: 67.032.
+Trial 4 finished | Best accuracy: 67.03%
+[I 2026-10-24 00:27:10,561] Trial 5 finished with value: 62.48 and parameters: {'lr': 0.002253093392669207, 'weight_decay': 0.00016536937182824412, 'label_smoothing': 0.019534422801276777, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 2 with value: 67.032.
+Trial 5 finished | Best accuracy: 67.03%
+[I 2026-10-24 00:39:48,734] Trial 6 finished with value: 66.696 and parameters: {'lr': 0.00022170245034623407, 'weight_decay': 0.0433792069749094, 'label_smoothing': 0.05175599632000338, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 2 with value: 67.032.
+Trial 6 finished | Best accuracy: 67.03%
+[I 2026-10-24 00:52:36,013] Trial 7 finished with value: 67.696 and parameters: {'lr': 0.00034796149422583407, 'weight_decay': 0.07556810141274425, 'label_smoothing': 0.15502656467222292, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 7 with value: 67.696.
+Trial 7 finished | Best accuracy: 67.70%
+[I 2026-10-24 00:58:39,541] Trial 8 pruned. 
+Trial 8 finished | Best accuracy: 67.70%
+[I 2026-10-24 01:10:27,163] Trial 9 finished with value: 66.712 and parameters: {'lr': 0.0005823402046485482, 'weight_decay': 0.000132965214572995, 'label_smoothing': 0.1085392166316497, 'batch_size': 128, 'scheduler': 'cosine_warmup'}. Best is trial 7 with value: 67.696.
+Trial 9 finished | Best accuracy: 67.70%
+[I 2026-10-24 01:22:51,596] Trial 10 finished with value: 66.648 and parameters: {'lr': 0.000213096200068977, 'weight_decay': 0.0021666524061773602, 'label_smoothing': 0.1686180328790248, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 7 with value: 67.696.
+Trial 10 finished | Best accuracy: 67.70%
+[I 2026-10-24 01:31:42,396] Trial 11 pruned. 
+Trial 11 finished | Best accuracy: 67.70%
+[I 2026-10-24 01:43:52,654] Trial 12 finished with value: 67.456 and parameters: {'lr': 0.0003896055275460624, 'weight_decay': 0.05125376680195747, 'label_smoothing': 0.1622585156141898, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 7 with value: 67.696.
+Trial 12 finished | Best accuracy: 67.70%
+[I 2026-10-24 01:55:08,197] Trial 13 finished with value: 67.016 and parameters: {'lr': 0.0006196637949829753, 'weight_decay': 0.04601866446610665, 'label_smoothing': 0.18187422501689035, 'batch_size': 128, 'scheduler': 'cosine_warmup'}. Best is trial 7 with value: 67.696.
+Trial 13 finished | Best accuracy: 67.70%
+[I 2026-10-24 02:02:23,901] Trial 14 pruned. 
+Trial 14 finished | Best accuracy: 67.70%
+[I 2026-10-24 02:08:41,432] Trial 15 pruned. 
+Trial 15 finished | Best accuracy: 67.70%
+[I 2026-10-24 02:15:11,768] Trial 16 pruned. 
+Trial 16 finished | Best accuracy: 67.70%
+[I 2026-10-24 02:27:50,764] Trial 17 finished with value: 67.736 and parameters: {'lr': 0.00028898718732738255, 'weight_decay': 0.062385226420980426, 'label_smoothing': 0.19866444238200437, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 17 with value: 67.736.
+Trial 17 finished | Best accuracy: 67.74%
+[I 2026-10-24 02:34:24,245] Trial 18 pruned. 
+Trial 18 finished | Best accuracy: 67.74%
+[I 2026-10-24 02:41:02,198] Trial 19 pruned. 
+Trial 19 finished | Best accuracy: 67.74%
+[I 2026-10-24 02:49:37,130] Trial 20 pruned. 
+Trial 20 finished | Best accuracy: 67.74%
+[I 2026-10-24 03:04:09,697] Trial 21 finished with value: 68.432 and parameters: {'lr': 0.00035629270003026, 'weight_decay': 0.09853992489200902, 'label_smoothing': 0.19642647039537459, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 21 with value: 68.432.
+Trial 21 finished | Best accuracy: 68.43%
+[I 2026-10-24 03:18:16,913] Trial 22 finished with value: 67.376 and parameters: {'lr': 0.0002817785282337686, 'weight_decay': 0.02960158974682283, 'label_smoothing': 0.19507186892842648, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 21 with value: 68.432.
+Trial 22 finished | Best accuracy: 68.43%
+[I 2026-10-24 03:32:06,087] Trial 23 finished with value: 67.88 and parameters: {'lr': 0.000545951552095722, 'weight_decay': 0.05100327364745509, 'label_smoothing': 0.16726546991101535, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 21 with value: 68.432.
+Trial 23 finished | Best accuracy: 68.43%
+[I 2026-10-24 03:39:19,009] Trial 24 pruned. 
+Trial 24 finished | Best accuracy: 68.43%
+[I 2026-10-24 03:52:57,813] Trial 25 finished with value: 67.768 and parameters: {'lr': 0.0005796638465789309, 'weight_decay': 0.008382978352788414, 'label_smoothing': 0.19015042319739311, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 21 with value: 68.432.
+Trial 25 finished | Best accuracy: 68.43%
+[I 2026-10-24 04:06:11,049] Trial 26 finished with value: 67.56 and parameters: {'lr': 0.0005577740543902548, 'weight_decay': 0.0026034242800818093, 'label_smoothing': 0.17449103762993445, 'batch_size': 64, 'scheduler': 'cosine_warmup'}. Best is trial 21 with value: 68.432.
+Trial 26 finished | Best accuracy: 68.43%
+[I 2026-10-24 04:12:29,044] Trial 27 pruned. 
+Trial 27 finished | Best accuracy: 68.43%
+[I 2026-10-24 04:19:10,042] Trial 28 pruned. 
+Trial 28 finished | Best accuracy: 68.43%
+[I 2026-10-24 04:25:15,655] Trial 29 pruned. 
+Trial 29 finished | Best accuracy: 68.43%
+
+BEST VALIDATION ACCURACY:
+68.432
+
+BEST HYPERPARAMETERS:
+lr: 0.00035629270003026
+weight_decay: 0.09853992489200902
+label_smoothing: 0.19642647039537459
+batch_size: 64
+scheduler: cosine_warmup
+
+TOP 10 TRIALS:
+ number  value             datetime_start          datetime_complete               duration  params_batch_size  params_label_smoothing  params_lr params_scheduler  params_weight_decay    state
+     21 68.432 2026-10-24 02:49:37.155805 2026-10-24 03:04:09.684803 0 days 00:14:32.528998                 64                0.196426   0.000356    cosine_warmup             0.098540 COMPLETE
+     23 67.880 2026-10-24 03:18:16.941544 2026-10-24 03:32:06.073654 0 days 00:13:49.132110                 64                0.167265   0.000546    cosine_warmup             0.051003 COMPLETE
+     25 67.768 2026-10-24 03:39:19.037031 2026-10-24 03:52:57.802899 0 days 00:13:38.765868                 64                0.190150   0.000580    cosine_warmup             0.008383 COMPLETE
+     17 67.736 2026-10-24 02:15:11.791723 2026-10-24 02:27:50.752163 0 days 00:12:38.960440                 64                0.198664   0.000289    cosine_warmup             0.062385 COMPLETE
+      7 67.696 2026-10-24 00:39:48.758571 2026-10-24 00:52:36.001019 0 days 00:12:47.242448                 64                0.155027   0.000348    cosine_warmup             0.075568 COMPLETE
+     26 67.560 2026-10-24 03:52:57.838998 2026-10-24 04:06:11.040459 0 days 00:13:13.201461                 64                0.174491   0.000558    cosine_warmup             0.002603 COMPLETE
+     12 67.456 2026-10-24 01:31:42.419555 2026-10-24 01:43:52.645404 0 days 00:12:10.225849                 64                0.162259   0.000390    cosine_warmup             0.051254 COMPLETE
+     22 67.376 2026-10-24 03:04:09.725796 2026-10-24 03:18:16.902821 0 days 00:14:07.177025                 64                0.195072   0.000282    cosine_warmup             0.029602 COMPLETE
+      2 67.032 2026-10-23 23:36:42.136316 2026-10-23 23:49:51.143330 0 days 00:13:09.007014                 64                0.060848   0.000345    cosine_warmup             0.000054 COMPLETE
+     13 67.016 2026-10-24 01:43:52.678350 2026-10-24 01:55:08.185520 0 days 00:11:15.507170                128                0.181874   0.000620    cosine_warmup             0.046019 COMPLETE
